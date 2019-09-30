@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to FSciammarella's Blog   
 
-I'm glad you are here. I plan to talk about ...
+## This is the first post of this blog
+My Name is Felipe Sciammarella, a MSc. Student of the Department of Genetics of Federal University of Rio de Janeiro, Brazil. 
